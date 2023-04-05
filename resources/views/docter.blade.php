@@ -28,14 +28,14 @@
                         <a href="#" class="btn grd1"><i class="fa fa-linkedin"></i></a>
                     </div>
                 </div><!--widget -->
-            </div><!-- end col -->
+            </div>
   
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeIn;">
                 <div class="widget clearfix">
                     <img src="images/doctor_02.jpg" alt="" class="img-responsive img-rounded">
                     <div class="widget-title">
                         <h3>Bryan Saftler</h3>
-                        <small>Internal Diseases</small>
+                        <small>Internal Diseases!!!</small>
                     </div>
                     <!-- end title -->
                     <p>Hello guys, I am Soren from Sirbistana. I am senior art director and founder of Violetta.</p>
